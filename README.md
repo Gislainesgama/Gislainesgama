@@ -7,8 +7,7 @@
 
 🌟 Olá! Sou Gislaine, desenvolvedora front-end com conhecimentos em back-end, apaixonada por criar experiências digitais modernas e funcionais.  
 📚 Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades, conectando interfaces de usuário atrativas a lógicas robustas de servidores.  
-🚀 Determinada a conquistar minha primeira oportunidade na área de tecnologia, quero contribuir com projetos desafiadores e impactantes, enquanto cresço profissionalmente e me torno uma referência na área.  
-
+🚀 Determinada a conquistar minha primeira oportunidade na área de tecnologia, quero contribuir com projetos desafiadores e impactantes, enquanto cresço profissionalmente.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gislainesgama&layout=compact&langs_count=6&theme=graywhite)
